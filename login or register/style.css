@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.back {
+  background-image: url("../images/back.jpg");
+  width: 1366px;
+  height: 695px;
+  position: relative;
+}
+.box {
+  height: 400px;
+  width: 400px;
+  box-sizing: border-box;
+  background-color: rgb(104, 141, 139);
+  margin-left: 150px;
+  margin-top: 150px;
+  box-shadow: 2px 2px 5px black;
+  position: absolute;
+}
